@@ -1,4 +1,4 @@
-# Recipe Keeper App
+# Recipe Keeper CLI App
 
 ## **Product Requirements**
 
@@ -67,6 +67,3 @@
 - **CommandLine API**: Process and parse command-line arguments.
 
 ---
-
-Let me know if you'd like a more detailed implementation plan for any of these features!
-
