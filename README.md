@@ -13,8 +13,7 @@
 
 3. **Search Recipes**  
    - Allow users to search for recipes by title or ingredient.  
-   - Display matching recipes.
-
+   - Display matching recipe
 4. **Delete a Recipe**  
    - Allow users to delete a recipe by its title.  
    - Update the stored data file accordingly.
